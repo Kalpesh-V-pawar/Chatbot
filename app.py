@@ -1,3 +1,5 @@
+import random
+
 def chatbot():
     print("Chatbot: Hello! I'm a basic chatbot. Type 'exit' to end the conversation.")
     print("Chatbot: How can I help you today?")
