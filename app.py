@@ -4,6 +4,7 @@ def chatbot():
     print("Chatbot: Hello! I'm an advanced chatbot. Type 'exit' to end the conversation.")
     print("Chatbot: How can I help you today?")
 
+    
     # Predefined responses
     responses = {
         "hello": ["Hi there! How can I assist you?", "Hello! What's on your mind?", "Hey! How can I help you?"],
